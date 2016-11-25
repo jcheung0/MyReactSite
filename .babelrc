@@ -1,0 +1,16 @@
+{
+  "presets": [
+    "latest",
+    "react",
+    "stage-1"
+
+  ],
+  "env": {
+    "start": {
+      "presets": [
+        "react-hmre"
+      ]
+    }
+  }
+
+}
